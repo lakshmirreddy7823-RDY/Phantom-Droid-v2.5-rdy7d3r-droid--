@@ -1,0 +1,10 @@
+# Phantom-Droid v2.5
+# Python dependencies
+
+colorama
+rich
+psutil
+requests
+packaging
+PyYAML
+python-dateutil
